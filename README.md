@@ -12,15 +12,22 @@ Learning Objective: use android file and SQLite storage features to complete the
 
 ![prefview](screenshots/prefview.png)
 
-### SQL View :
+![premsg.png](screenshots/premsg.png)
+
+
+### SQLlite View :
 
 ![sql](screenshots/sql.png)
+![sqlmsg](screenshots/sqlmsg.png)
 
-### Main activity screen after using preference and SQL lite views 
+### Main activity screen after using preference and SQLlite views 
 
-![sample](screenshots/sample.png)
+![preview](screenshots/preview.png)
+
+![sqlview](screenshots/sqlview.png)
 
 ![storagesample](screenshots/storagesample.png)
+
 
 
 
