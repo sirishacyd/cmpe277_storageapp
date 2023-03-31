@@ -16,6 +16,10 @@ Learning Objective: use android file and SQLite storage features to complete the
 
 ![sql](screenshots/sql.png)
 
+![sample](screenshots/sample.png)
+
+![storagesample](screenshots/storagesample.png)
+
 
 
 
