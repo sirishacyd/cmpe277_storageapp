@@ -1,5 +1,5 @@
-# cmpe277_storageapp
-# Course: Smartphone Application Development
+### cmpe277_storageapp
+### Course: Smartphone Application Development
 
 ### Learning Objective:
 Learning Objective: use android file and SQLite storage features to complete the assignment.
