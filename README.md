@@ -2,7 +2,7 @@
 ### Course: Smartphone Application Development
 
 ### Learning Objective:
-Learning Objective: use android file and SQLite storage features to complete the assignment.
+use android file and SQLite storage features to complete the assignment.
 
 ### Main Activity:
 
